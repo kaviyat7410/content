@@ -8,6 +8,7 @@ I'm a Aspiring Full Stack Developer passionate about building web applications.
 💬 Ask me about: JavaScript, Python, Web Development
 📫 How to reach me: kaviyat7410@gmail.com
 
+
 SKILLS
 Frontend		React.js, JavaScript, HTML5, CSS3
 Backend		  Python (Flask, Django), REST APIs, Java
